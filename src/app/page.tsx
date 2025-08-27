@@ -4,7 +4,6 @@ import CyclopsHero from '@/components/sections/layouts/hero/CyclopsHero';
 import MinimalAbout from '@/components/sections/layouts/about/MinimalAbout';
 import GalleryBento from '@/components/bento/galleryBento/GalleryBento';
 import StackTimeline from '@/components/timeline/StackTimeline';
-import Logos from '@/components/sections/layouts/footer/Logos';
 import SimpleFooter from '@/components/sections/layouts/footer/SimpleFooter';
 
 const mockGalleryItems = [
